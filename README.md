@@ -86,9 +86,9 @@ ________________________________________
 •	✅ Use PostgreSQL / MongoDB for database storage
 ________________________________________
 👨💻 Author
-•	Name: [Your Name]
+•	Name: Majid Alamdari
 •	GitHub: github.com/mdai61
-•	Email: [your.email@example.com]
+•	Email: mdai61@gmail.com
 ________________________________________
 🎉 Contributions
 Feel free to fork this repo and submit pull requests! 🚀
